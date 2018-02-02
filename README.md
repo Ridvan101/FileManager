@@ -1,5 +1,6 @@
 # File Manager
-Command Prompt File Manager for Standard Files and Folders Manipulation
+
+File Manager is an application which runs in Command Prompt and is used for standard manipulation of files and folders in File System. 
 
 ## Getting Started
 
