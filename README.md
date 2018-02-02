@@ -8,4 +8,4 @@ After starting File Manager, option for entering chosen command is displayed, wh
 
 ![File Manager](https://github.com/Ridvan101/FileManager/blob/master/FileManager.png)
 
-After entering chosen command and pressing Enter, function associated with the command will be applied and manipulate selected file or folder accordingly.
+Once the command is entered, function associated with it will be applied and therefore manipulate selected file or folder accordingly.
